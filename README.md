@@ -22,6 +22,7 @@ This is a Telegram bot for registering users to an online programming course.
 __bash__
 
 pip install aiogram
+
 Set your Telegram bot API key inside bot.py:
 
 API_KEY = "YOUR_TELEGRAM_BOT_API_KEY"
